@@ -1,0 +1,14 @@
+En este documento, se alojan los usuarios y las contraseñas de cada perfil de usuario para
+hacer la respectiva prueba de la app
+
+NOTA: se creo los users con la misma contraseña para evitar pérdidas o confusiones
+
+Luis encebollado7
+
+Genesis encebollado7
+
+Guaranda encebollado7
+
+Armando encebollado7
+
+Diego encebollado7
